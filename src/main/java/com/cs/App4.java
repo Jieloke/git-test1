@@ -6,5 +6,6 @@ public class App4 {
       System.out.println("我是kfk");
       System.out.println("我是kfk");
       System.out.println("我插尼玛");
+      System.out.println("我是李四曹尼玛");
    }
 }
